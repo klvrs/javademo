@@ -1,6 +1,11 @@
 new file created
 hi hello
+<<<<<<< HEAD
 new file created
 hi hello
 i added line
 hii this is from local machne
+=======
+i added line
+>>>>>>> ccb032c764421d26b968e00926d9f8a3820512d6
+i added one more line
